@@ -4,7 +4,7 @@ description: A practice for shifting identity from the thinking mind to awarenes
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4412
+  version: 1.0.4413
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - loving-awareness-meditation
