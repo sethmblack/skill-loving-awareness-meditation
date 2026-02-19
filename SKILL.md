@@ -3,8 +3,9 @@ name: loving-awareness-meditation
 description: A practice for shifting identity from the thinking mind to awareness itself — and recognizing that awareness is inherently loving, derived from Ram Dass's signature teaching that became his primary...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4412
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - loving-awareness-meditation
 - writing
